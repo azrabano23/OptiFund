@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.env
+*.env
+
+# Flask
+instance/
+.webassets-cache
+
+# React
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store 
