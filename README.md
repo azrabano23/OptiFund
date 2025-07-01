@@ -4,7 +4,7 @@
 
 OptiFund Pro is a sophisticated portfolio optimization platform that combines Modern Portfolio Theory (MPT) with machine learning to deliver institutional-grade investment strategies. The platform features a professional React frontend and a robust Python Flask backend, designed specifically for institutional investors.
 
-## ✨ Current Status - COMPLETED ✅
+## Current Status - COMPLETED = ✅
 
 ### Backend Infrastructure
 - ✅ **Flask API Server** - Fully functional with CORS support
@@ -30,7 +30,7 @@ OptiFund Pro is a sophisticated portfolio optimization platform that combines Mo
 - ✅ **Performance Analytics** - Detailed portfolio performance analysis
 - ✅ **Professional UI** - Investor-grade interface suitable for institutional clients
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ```
 OptiFund/
@@ -361,19 +361,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Team
 
-- **Finance Model Lead**: Azra Bano (COMPLETED ✅)
+- **Finance Model Lead**: Azra (COMPLETED ✅)
 - **Data Engineer**: Anya (PENDING 🔄)
 - **RL Engineer**: Anya (PENDING 🔄)
-- **Backend Developer**: COMPLETED ✅
-- **Frontend Developer**: COMPLETED ✅
+- **Backend Developer**: Azra COMPLETED ✅
+- **Frontend Developer**: Azra COMPLETED ✅
 - **Visualization Analyst**: Priyanshi (PENDING 🔄)
 - **Ethics & Bias Analyst**: Priyanshi (PENDING 🔄)
-
-## 📞 Contact
-
-For questions or support, please contact the team lead or create an issue in the repository.
-
----
 
 **Last Updated**: July 1, 2025
 **Version**: 2.0.0
